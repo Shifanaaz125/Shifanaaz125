@@ -32,6 +32,7 @@ The languages I use to write code on GitHub include:
 
 - Python
 - R
+- SQL
 
 Let's connect and collaborate on exciting projects!
 
