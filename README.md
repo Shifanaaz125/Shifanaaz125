@@ -3,7 +3,7 @@ Hi, I'm Shifa Naaz, a passionate learner of Data Science.
 - 🌱 I’m currently learning ML(Machine Learning) 
 - 💬 Ask me about EDA
 - 📫 You can reach me out on shifanaaz2023@yahoo.com
-- ~ I am open to collaboration. Ping me if there's something interesting we can work on.
+-  I am open to collaboration. Ping me if there's something interesting we can work on.
 
    Conecte with me on :
 -   [LinkedIn](https://www.linkedin.com/in/shifanaaz/)
