@@ -1,14 +1,3 @@
-### About Me
-Hi, I'm Shifa Naaz, a passionate learner of Data Science.
-- 🌱 I’m currently learning ML(Machine Learning) 
-- 💬 Ask me about EDA
-- 📫 You can reach me out on shifanaaz2023@yahoo.com
--  I am open to collaboration. Ping me if there's something interesting we can work on.
-
-   Conecte with me on :
--   [LinkedIn](https://www.linkedin.com/in/shifanaaz/)
--   [Kaggle](https://www.kaggle.com/shifanaaz125)
-
 # Hi there! 👋 I'm Shifa.
 
 I am a passionate learner of Machine Learning, and I specialize in Exploratory Data Analysis (EDA).
