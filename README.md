@@ -18,7 +18,7 @@ I am proficient in the following tools and technologies:
 
 - MySQL
 - Pandas
-- scikit-learn
+- Scikit-learn
 - Seaborn
 - Python
 - R
@@ -35,4 +35,4 @@ The languages I use to write code on GitHub include:
 
 Let's connect and collaborate on exciting projects!
 
-![Motivated theme GIF](<iframe src="https://giphy.com/embed/WRRL1EKo9rNe12S4zh" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/anime-cat-lo-fi-WRRL1EKo9rNe12S4zh">via GIPHY</a></p>)
+![Motivated theme GIF](https://giphy.com/embed/WRRL1EKo9rNe12S4zh)
