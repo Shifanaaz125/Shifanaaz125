@@ -36,4 +36,4 @@ The languages I use to write code on GitHub include:
 
 Let's connect and collaborate on exciting projects!
 
-![Motivated theme GIF](https://giphy.com/embed/WRRL1EKo9rNe12S4zh)
+[GIF](https://giphy.com/embed/WRRL1EKo9rNe12S4zh)
