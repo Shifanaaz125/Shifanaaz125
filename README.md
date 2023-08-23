@@ -5,7 +5,8 @@
 <h3 align="center">I am a passionate learner of Machine Learning, and I specialize in Exploratory Data Analysis (EDA)</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16717690-Woman-in-hijab-at-cafe?utm_source=Clipboard_Shot&utm_campaign=Oftennice&utm_content=Woman%20in%20hijab%20at%20cafe&utm_medium=Social_Share">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/78f07362-086c-4337-b38b-68f9ca5e4747)
+">
 
 
 
