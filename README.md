@@ -4,7 +4,8 @@
 
 <h3 align="center">I am a passionate learner of Machine Learning, and I specialize in Exploratory Data Analysis (EDA)</h3>
 
-
+<img src="https://komarev.com/ghpvc/?username=Shifanaaz125&color=blue&style=plastic" />
+  </td>
 
 
 🌱 Currently, I am focusing on honing my skills in Machine Learning.
