@@ -5,8 +5,7 @@
 <h3 align="center">I am a passionate learner of Machine Learning, and I specialize in Exploratory Data Analysis (EDA)</h3>
 
 
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/78f07362-086c-4337-b38b-68f9ca5e4747)
-">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/78f07362-086c-4337-b38b-68f9ca5e4747)">
 
 
 
@@ -62,3 +61,4 @@ Let's connect and collaborate on exciting projects!
 
 (![image](https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/dc9f9839-3c9f-4520-8735-b0103fd7ca20)
 )
+(<img align="right" alt="Coding" width="400" src="![image](https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/78f07362-086c-4337-b38b-68f9ca5e4747)">)
