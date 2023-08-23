@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shifa</h1>
 
-<h3 align="center">I am a passionate learner of Machine Learning, and I specialize in Exploratory Data Analysis (EDA)</h3>
+<h3 align="center"> A literature girl, who is passionate about exploring the Data world </h3>
 
 <img src="https://komarev.com/ghpvc/?username=Shifanaaz125&color=blue&style=plastic" />
   </td>
