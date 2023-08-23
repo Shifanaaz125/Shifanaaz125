@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shifa.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16717690-Woman-in-hijab-at-cafe?utm_source=Clipboard_Shot&utm_campaign=Oftennice&utm_content=Woman%20in%20hijab%20at%20cafe&utm_medium=Social_Share>
 
 I am a passionate learner of Machine Learning, and I specialize in Exploratory Data Analysis (EDA).
 
