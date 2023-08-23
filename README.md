@@ -37,19 +37,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shifanaaz125&show_icons=true&locale=en&layout=compact" alt="Shifanaaz125" /></p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shifanaaz125&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-## Tools and Technologies
-
-I am proficient in the following tools and technologies:
-
-- MySQL
-- Pandas
-- Scikit-learn
-- Seaborn
-- Python
-- R
-- Tableau
-- Power BI
-- MS Excel
 
 
 Let's connect and collaborate on exciting projects!
