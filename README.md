@@ -61,4 +61,5 @@ Let's connect and collaborate on exciting projects!
 
 (![image](https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/dc9f9839-3c9f-4520-8735-b0103fd7ca20)
 )
-(<img align="right" alt="Coding" width="400" src="![image](https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/78f07362-086c-4337-b38b-68f9ca5e4747)">)
+![image](https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/273423c1-d8fb-4612-af57-235ffebf1d3c)
+
