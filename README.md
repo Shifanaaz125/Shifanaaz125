@@ -7,6 +7,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16717690-Woman-in-hijab-at-cafe">
 
+![image](https://dribbble.com/shots/16717690-Woman-in-hijab-at-cafe)
+
 
 🌱 Currently, I am focusing on honing my skills in Machine Learning.
 
