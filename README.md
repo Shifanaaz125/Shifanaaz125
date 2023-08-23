@@ -16,6 +16,18 @@ Connect with me on:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Shifanaaz125&custom_title=GitHub+Stats&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shifanaaz125&layout=compact&theme=radical" width="100%" />
+    </td>
+    <img src="https://komarev.com/ghpvc/?username=Shifanaaz125&color=green&style=plastic" />
+  </td>
+  <td width="52%"><img alt="gif" align="right" src="https://raw.githubusercontent.com/Shifanaaz125/PictureForMyProject/main/giphy.gif"/></td>
+</tr>
+<table>
+
 ## Tools and Technologies
 
 I am proficient in the following tools and technologies:
