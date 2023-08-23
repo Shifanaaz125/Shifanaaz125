@@ -5,9 +5,6 @@
 <h3 align="center">I am a passionate learner of Machine Learning, and I specialize in Exploratory Data Analysis (EDA)</h3>
 
 
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/78f07362-086c-4337-b38b-68f9ca5e4747)">
-
-
 
 
 🌱 Currently, I am focusing on honing my skills in Machine Learning.
@@ -49,17 +46,8 @@ I am proficient in the following tools and technologies:
 - Power BI
 - MS Excel
 
-## Languages
-
-The languages I use to write code on GitHub include:
-
-- Python
-- R
-- SQL
 
 Let's connect and collaborate on exciting projects!
 
-(![image](https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/dc9f9839-3c9f-4520-8735-b0103fd7ca20)
-)
 ![image](https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/273423c1-d8fb-4612-af57-235ffebf1d3c)
 
