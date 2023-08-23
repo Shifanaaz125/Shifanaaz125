@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16717690-Woman-in-hijab-at-cafe">
 
-![image](https://dribbble.com/shots/16717690-Woman-in-hijab-at-cafe)
+![image](https://dribbble.com/shots/16717690-Woman-in-hijab-at-cafe?utm_source=Clipboard_Shot&utm_campaign=Oftennice&utm_content=Woman%20in%20hijab%20at%20cafe&utm_medium=Social_Share)
 
 
 🌱 Currently, I am focusing on honing my skills in Machine Learning.
