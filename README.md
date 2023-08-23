@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Shifa.
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 I am a passionate learner of Machine Learning, and I specialize in Exploratory Data Analysis (EDA).
 
 🌱 Currently, I am focusing on honing my skills in Machine Learning.
