@@ -30,13 +30,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shifanaaz125&show_icons=true&locale=en&layout=compact" alt="Shifanaaz125" /></p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shifanaaz125&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=shifanaaz&show_icons=true&theme=radical">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shifanaaz&langs_count=5&theme=tokyonight">
-
-
 
 Let's connect and collaborate on exciting projects!
 
