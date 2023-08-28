@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-  <td width="48%">
+  <td width="48%"> align="right"
     <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=shifanaaz125&custom_title=GitHub+Stats&show_icons=true&theme=radical" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifanaaz125&layout=compact&theme=radical" width="100%" />
     </td>
