@@ -30,6 +30,14 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shifanaaz125&show_icons=true&locale=en&layout=compact" alt="shifanaaz125" /></p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shifanaaz125&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=shifanaaz125&custom_title=GitHub+Stats&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifanaaz125&layout=compact&theme=radical" width="100%" />
+    </td>
+    <img src="https://komarev.com/ghpvc/?username=shifanaaz125&color=green&style=plastic" />
+  </td>
 
 
 Let's connect and collaborate on exciting projects!
