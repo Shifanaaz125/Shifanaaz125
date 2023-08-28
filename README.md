@@ -27,12 +27,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Microsoft_Excel" width="40" height="40"/> </a> <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/> </a> <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" alt="Matplotlib" width="40" height="40"/> </a> </p>    
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shifanaaz125&show_icons=true&locale=en&layout=compact" alt="shifanaaz125" /></p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shifanaaz125&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <table>
 <tr>
-  <td width="45%"> align="left"
+  <td width="45%"> 
     <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=shifanaaz125&custom_title=GitHub+Stats&show_icons=true&theme=radical" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifanaaz125&layout=compact&theme=radical" width="100%" />
     </td>
