@@ -5,8 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=Shifanaaz125&color=blue&style=plastic" />
   </td>
 
-  
-
 
 🌱 Currently, I am focusing on honing my skills in Machine Learning.
 
