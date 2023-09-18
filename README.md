@@ -20,7 +20,8 @@
 <p align="left">
 <a href="https://www.kaggle.com/shifanaaz125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shifanaaz125" height="30" width="40" /></a>
 </p>
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shifanaaz/)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/shifanaaz125)
 
 
 
