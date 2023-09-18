@@ -32,13 +32,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifanaaz125&layout=compact&theme=radical" width="100%" />
     </td>
 
-    <table>
-<tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=shifanaaz125&custom_title=GitHub+Stats&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifanaaz125&layout=compact&theme=radical" width="100%" />
-    </td>
-
  <td width="48%"> <img alt="image" align="right"
 src="https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/273423c1-d8fb-4612-af57-235ffebf1d3c"/></td>
 
