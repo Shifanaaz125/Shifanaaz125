@@ -10,11 +10,11 @@
 
 💬 Feel free to ask me anything about EDA, and I'll be glad to help.
 
-📫 You can reach me at shifanaaz2023@yahoo.com
+## 📫 You can reach me at shifanaaz2023@yahoo.com
 
 
 
- <h3 align="left">Connect with me:</h3>
+ ## <h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shifanaaz/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/shifanaaz125)
