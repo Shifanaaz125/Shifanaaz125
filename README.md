@@ -10,7 +10,7 @@
 
 💬 Feel free to ask me anything about EDA, and I'll be glad to help.
 
-📫 You can reach me at shifanaaz2023@yahoo.com
+📫 You can reach me at shifanaaz2021@outlook.com
 
 
 
