@@ -1,6 +1,6 @@
 <h1 align="center"> Hello <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="40px"> <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="18px" />  I'm Shifa</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3001&pause=1000&color=097D7C&center=true&vCenter=true&width=1001&height=104&lines=%7CProviding+Data-Driven+Solutions%C;+A+Litreature+girl+who+is+passionate+about+exploring+the+Data+World%C;Open+for+Work%7CFull-Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3001&pause=1000&color=097D7C&center=true&vCenter=true&width=1001&height=104&lines=%7CProviding+Data-Driven+Solutions;+A+Litreature+girl+who+is+passionate+about+exploring+the+Data+World;Open+for+Work%7CFull-Time)](https://git.io/typing-svg)
 
 <h3 align="center"> A literature girl, who is passionate about exploring the Data world </h3>
 
