@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shifa</h1>
+<h1 align="center">Hi 👋 <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="40px"> , I'm Shifa</h1>
 
 <h3 align="center"> A literature girl, who is passionate about exploring the Data world </h3>
 
