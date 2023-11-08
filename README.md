@@ -10,7 +10,7 @@
 
 💬 Feel free to ask me anything about Social Media Analytics, and I'll be glad to help.
 
-⚡ Fun fact: 🔭Astrophile ,🌙 Selenophile, 💦 Pluviophile , 📚Bibliophilie ,🏔️Orophile ,☁️ Nephophillia , 🌱 Dendrophil
+⚡ Fun fact:  I am 🔭Astrophile ,🌙 Selenophile, 💦 Pluviophile , 📚Bibliophilie ,🏔️Orophile ,☁️ Nephophillia , 🌱 Dendrophil
 
 📫 You can reach me at shifanaaz2023@yahoo.com
 
