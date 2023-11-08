@@ -43,4 +43,4 @@ src="https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/273423c1-d8fb
 
 Let's connect and collaborate on exciting projects!
 
-<p align="center">🌱<img src="https://in.pinterest.com/pin/513551163740946911/visual-search/?x=16&y=16&w=368&h=252&cropSource=6&imageSignature=28039655b1bd71d4055e1228dfc2c813" width="20px"/> Random Data Quote</p>
+<p align="center">🌱<img src="Data will talk to you if you are willing to listen" width="20px"/> Random Data Quote</p>
