@@ -1,4 +1,4 @@
-<h1 align="center"> Hello <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="40px">  width="40px"> , I'm Shifa</h1>
+<h1 align="center"> Hello <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="40px"> <p align="right"> <img src="https://gifscenter.com/wp-content/uploads/2017/05/Indian%20Flag%20waving%20animation%20free%20download.gif" width="30px"/> <p> , I'm Shifa</h1>
 
 <h3 align="center"> A literature girl, who is passionate about exploring the Data world </h3>
 
