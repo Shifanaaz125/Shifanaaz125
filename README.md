@@ -43,4 +43,4 @@ src="https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/273423c1-d8fb
 
 Let's connect and collaborate on exciting projects!
 
-<h1 align="center"> 🌱Data will talk to you if you are willing to listen </h3>
+<h1 align="center"> Data will talk to you if you are willing to listen </h3>
