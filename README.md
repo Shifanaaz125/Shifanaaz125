@@ -42,3 +42,5 @@ src="https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/273423c1-d8fb
 
 
 Let's connect and collaborate on exciting projects!
+
+<p align="center">🌱<img src="C:\Users\Shifa\Downloads\data quotes - Google Search.jfif" width="20px"/> Random Data Quote</p>
