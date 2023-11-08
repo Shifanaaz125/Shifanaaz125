@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3001&pause=1000&color=097D7C&center=true&vCenter=true&width=1001&height=104&lines=Providing+Data-Driven+Solutions;+A+Litreature+girl+who+is+passionate+about+exploring+the+Data+World;Open+for+Work%7CFull-Time)](https://git.io/typing-svg)
 
-<h3 align="center"> A literature girl, who is passionate about exploring the Data world </h3>
-
 <img src="https://komarev.com/ghpvc/?username=Shifanaaz125&color=blue&style=plastic" />
   </td>
 
