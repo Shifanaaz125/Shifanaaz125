@@ -43,4 +43,6 @@ src="https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/273423c1-d8fb
 
 Let's connect and collaborate on exciting projects!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3001&pause=3000&color=097D7C&center=true&vCenter=true&width=1001&height=104&lines=Data+will+talk+to+you+if+you+are+willing+to+listen)](https://git.io/typing-svg)
+
 <h1 align="center"> Data will talk to you if you are willing to listen </h3>
