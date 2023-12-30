@@ -1,6 +1,6 @@
 <h1 align="center"> Hello <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="40px"> <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="18px" />  I'm Shifa</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3001&pause=2500&color=000000&center=true&vCenter=true&width=1001&height=104&lines=Providing+Data-Driven+Solutions;+A+Litreature+girl+who+is+passionate+about+exploring+the+Data+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3001&pause=2500&color=000000&center=true&vCenter=true&width=1001&height=104&lines=Providing+Data-Driven+Solutions;+A+Litreature+girl+who+is+passionate+about+exploring+the+Data+World.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Shifanaaz125&color=blue&style=plastic" />
   </td>
@@ -43,6 +43,6 @@ src="https://github.com/Shifanaaz125/Shifanaaz125/assets/120267469/273423c1-d8fb
 
 Let's connect and collaborate on exciting projects!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3001&pause=2500&color=000000&center=true&vCenter=true&width=1001&height=104&lines=Data+will+talk+to+you+if+you+are+willing+to+listen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3001&pause=2500&color=000000&center=true&vCenter=true&width=1001&height=104&lines=Data+will+talk+to+you+if+you+are+willing+to+listen.)](https://git.io/typing-svg)
 
 
