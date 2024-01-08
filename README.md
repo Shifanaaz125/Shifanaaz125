@@ -8,7 +8,7 @@
 
 🌱 Currently, I am focusing on honing my skills in Machine Learning.
 
-💬 Feel free to ask me anything about Social Media Analytics, and I'll be glad to help.
+💬 Feel free to ask me anything about Social Media Analytics, Customer Analytics, and I'll be glad to help.
 
 ⚡ Fun fact:  I am 🔭Astrophile ,🌙 Selenophile, 💦 Pluviophile , 📚Bibliophilie ,🏔️Orophile ,☁️ Nephophillia , 🌱 Dendrophil
 
